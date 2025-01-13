@@ -6,18 +6,7 @@
 
 # 🌱 **Currently Learning:**
 
-<<<<<<< HEAD
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-=======
-<<<<<<< HEAD
-
-- [Technology 1]
-- # [Technology 2]
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-  > > > > > > > a065c44 (added project)
-  > > > > > > > 6b7ce17 (added project)
+# ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 <!--
 💼 **Current Role:**
@@ -29,14 +18,11 @@
 
 ### 🌐 Front-End Development
 
-# <<<<<<< HEAD
-
-<<<<<<< HEAD
-🌟 **Featured Projects:**
-=======
-
-> > > > > > > 6b7ce17 (added project)
-> > > > > > > ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) > > > > > > > ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) > > > > > > > ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-18.2.0-blue)
+![Next.js](https://img.shields.io/badge/Next.js-13.4.0-lightgrey)
 
 ### 💻 Back-End Development
 
@@ -59,11 +45,6 @@
 
 ## 🌟 Featured Projects
 
-# <<<<<<< HEAD
-
-> > > > > > > a065c44 (added project)
-> > > > > > > 6b7ce17 (added project)
-
 Here are some projects I’m proud of. You can find the full list in my [repositories](https://github.com/karicodeworks?tab=repositories).
 
 ### 1. [E-Commerce API](https://github.com/karicodeworks/my-ecommerce-api)
@@ -78,21 +59,9 @@ A E-Commerce API that that has user authentication and the full functionality to
 
 - Email: kariukijames4202@gmail.com
 
-<<<<<<< HEAD
-
-### 🎯 **Fun Fact:** I love gaming, and I’m always up for a challenge!
-
-=======
-<<<<<<< HEAD
-🎯 **Fun Fact:** I love [hobby or interest], and I’m always up for a challenge!
 =======
 
 ### 🎯 **Fun Fact:** I love gaming, and I’m always up for a challenge!
-
-> > > > > > > a065c44 (added project)
-> > > > > > > 6b7ce17 (added project)
-
----
 
 ### ⭐️ **Feel free to explore my repositories and star/fork projects you find interesting!**
 
