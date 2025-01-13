@@ -4,7 +4,7 @@
 
 ### I’m Kariuki - a passionate software developer, always exploring new technologies and building cool projects! 🚀
 
-# 🌱 **Currently Learning:**
+## 🌱 **Currently Learning:**
 
 # ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
@@ -14,7 +14,13 @@
 - [Your Job Title] at [Your Company Name]
 -->
 
-# 🛠️ Tech Stack
+## Progamming Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+## 🛠️ Tech Stack
 
 ### 🌐 Front-End Development
 
@@ -42,6 +48,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ## 🌟 Featured Projects
 
@@ -57,11 +64,21 @@ A E-Commerce API that that has user authentication and the full functionality to
 
 - 🚀 **Live Demo**: [Live Link](https://my-ecommerce-api-t88v.onrender.com)
 
+### 2. [Jobs API](https://github.com/karicodeworks/jobs-api)
+
+**Tech Stack**:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+
+A simple api to track jobs where by the user can create, retrieve, update and delete jobs. It also gives the user the ability to sort the jobs and get various some stats about the jobs
+
+- 🚀 **Live Demo**: [Live Link](https://jobs-api-s1wp.onrender.com)
+
 ## 📫 **How to reach me:**
 
 - Email: kariukijames4202@gmail.com
 
-=======
+=================
 
 ### 🎯 **Fun Fact:** I love gaming, and I’m always up for a challenge!
 
