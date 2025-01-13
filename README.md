@@ -70,7 +70,7 @@ A E-Commerce API that that has user authentication and the full functionality to
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
-A simple api to track jobs where by the user can create, retrieve, update and delete jobs. It also gives the user the ability to sort the jobs and get various some stats about the jobs
+A simple api to track jobs whereby the user can create, retrieve, update and delete jobs. It also gives the user the ability to sort the jobs and get some stats about the jobs.
 
 - 🚀 **Live Demo**: [Live Link](https://jobs-api-s1wp.onrender.com)
 
