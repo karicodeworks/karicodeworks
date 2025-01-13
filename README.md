@@ -21,8 +21,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![Next.js](https://img.shields.io/badge/Next.js-13.4.0-lightgrey)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 
 ### 💻 Back-End Development
 
@@ -49,7 +49,9 @@ Here are some projects I’m proud of. You can find the full list in my [reposit
 
 ### 1. [E-Commerce API](https://github.com/karicodeworks/my-ecommerce-api)
 
-**Tech Stack**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+**Tech Stack**:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
 A E-Commerce API that that has user authentication and the full functionality to create, retrieve, update, delete and order products.
 
