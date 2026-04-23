@@ -2,11 +2,11 @@
 
 ![assets/banner.png](https://github.com/karicodeworks/karicodeworks/blob/main/assets/banner.png)
 
-### I’m James - a passionate software developer, always exploring new technologies and building cool projects! 🚀
+### I’m James - a passionate software engineer, always exploring new technologies and building cool projects! 🚀
 
 ## 🌱 **Currently Learning:**
 
-# ![DevOps](https://shields.io)
+![DevOps](https://shields.io)
 
 <!--
 💼 **Current Role:**
