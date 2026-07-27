@@ -17,9 +17,3 @@
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kariukijamescodes&show_icons=true)
-
-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kariukijamescodes&layout=compact)
-
-- ![GitHub Streak](https://streak-stats.demolab.com?user=kariukijamescodes&theme=default)
