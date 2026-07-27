@@ -1,128 +1,52 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there, I'm James Kariuki 👋
 
-![assets/banner.png](https://github.com/karicodeworks/karicodeworks/blob/main/assets/banner.png)
+🚀 **Full-Stack Developer | Open Source Contributor | Tech Enthusiast**  
 
-### I’m James - a passionate software engineer, always exploring new technologies and building cool projects! 🚀
+Welcome to my GitHub! I love turning ideas into clean, efficient code and building tools that make life easier.  
+Currently based in [Your Location], I’m passionate about [your main interests, e.g., web development, AI, mobile apps].
 
-## 🌱 **Currently Learning:**
-
-![DevOps](https://shields.io)
-
-<!--
-💼 **Current Role:**
-
-- [Your Job Title] at [Your Company Name]
--->
-
-## Progamming Languages
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+## 🧠 About Me
+- 🔭 I’m currently working on: [Project Name / Description]
+- 🌱 I’m learning: [e.g., Rust, Kubernetes, Machine Learning]
+- 👯 I’m looking to collaborate on: [e.g., open source web apps, Python libraries]
+- 💬 Ask me about: [e.g., JavaScript, React, Node.js, Django]
+- 📫 How to reach me: [Email / Twitter / LinkedIn]
+- ⚡ Fun fact: [e.g., I’m a chess lover, I play guitar, I love hiking]
 
 ## 🛠️ Tech Stack
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+(Add more...)
 
-### 🌐 Front-End Development
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+(Add more...)
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 💻 Back-End Development
+## 📌 Featured Projects
+- [**Project Alpha**](https://github.com/kariukijamescodes/project-alpha) – A brief one-liner about what it does.
+- [**Awesome Tool**](https://github.com/kariukijamescodes/awesome-tool) – Another cool description.
+- [**Portfolio Website**](https://github.com/kariukijamescodes/portfolio) – My personal site built with React & Tailwind.
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+## 📊 GitHub Stats
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=kariukijamescodes&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kariukijamescodes&layout=compact&theme=radical)
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
-## 🌟 Featured Projects
-
-Here are some projects I’m proud of. You can find the full list in my [repositories](https://github.com/karicodeworks?tab=repositories).
-
-### 1. [E-Commerce API](https://github.com/karicodeworks/my-ecommerce-api)
-
-**Tech Stack**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-
-A E-Commerce API that that has user authentication and the full functionality to create, retrieve, update, delete and order products.
-
-- 🚀 **Live Demo**: [Live Link](https://my-ecommerce-api-t88v.onrender.com)
-
-### 2. [Jobs API](https://github.com/karicodeworks/jobs-api)
-
-**Tech Stack**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-
-A simple api to track jobs whereby the user can create, retrieve, update and delete jobs. It also gives the user the ability to sort the jobs and get some stats about the jobs.
-
-- 🚀 **Live Demo**: [Live Link](https://jobs-api-s1wp.onrender.com)
-
-## 📫 **How to reach me:**
-
-- Email: kariukijames4202@gmail.com
-
-=================
-
-### 🎯 **Fun Fact:** I love gaming, and I’m always up for a challenge!
-
-### ⭐️ **Feel free to explore my repositories and star/fork projects you find interesting!**
-
-<!--
-
-## 🌟 Featured Projects
-
-Here are some projects I’m proud of. You can find the full list in my [repositories](https://github.com/yourusername?tab=repositories).
-
-### 1. [Project Name 1](https://github.com/yourusername/project-repo-1)
-**Tech Stack**: HTML, CSS, JavaScript, Node.js
-
-A brief description of what this project does and why it’s cool. Highlight any notable features, challenges solved, or technologies used.
-
-- 🚀 **Live Demo**: [Live Link](https://your-live-project-link.com)
-- 📖 **Read More**: [Project Wiki](https://github.com/yourusername/project-repo-1/wiki)
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-### 2. [Project Name 2](https://github.com/yourusername/project-repo-2)
-**Tech Stack**: React, Redux, Firebase, Material UI
-
-A brief description of this project. Talk about the purpose, unique aspects, and any problems it solves.
-
-- 🚀 **Live Demo**: [Live Link](https://your-live-project-link.com)
-- 📖 **Read More**: [Documentation](https://github.com/yourusername/project-repo-2/wiki)
-
----
-
-### 3. [Project Name 3](https://github.com/yourusername/project-repo-3)
-**Tech Stack**: Python, Django, PostgreSQL
-
-A short description. Include any noteworthy achievements or technologies used that might attract attention.
-
-- 🚀 **Live Demo**: [Live Link](https://your-live-project-link.com)
-- 📖 **Read More**: [Documentation](https://github.com/yourusername/project-repo-3)
-
----
-
-
-
--->
+⭐️ From [kariukijamescodes](https://github.com/kariukijamescodes)
