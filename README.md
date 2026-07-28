@@ -29,12 +29,12 @@
 ### GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kariuki-james&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kariuki-james&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
 </div>
 
 ### Contribution Stats
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kariuki-james&theme=dark" alt="kariukijamescodes" />
 </div>
 
