@@ -1,7 +1,5 @@
 # Hi, I'm James 👋
 
----
-
 ## **About**
 
 Backend software engineer who specializes in high-performance APIs and robust data pipelines. I bridge the gap between traditional software architecture and data science, turning complex data requirements into reliable, production-ready systems using Python, FastAPI, and modern data workflows.
