@@ -8,9 +8,11 @@
 
 **Tools I use:**
 
-- JavaScript TypeScript Python
-- React Node.js
-- Docker Git
+- JavaScript • TypeScript • Python • SQL <!-- Bash R -->
+- React • Node.js • Django • FastAPI • Next.js
+<!-- - Pandas NumPy Scikit-Learn TensorFlow PyTorch -->
+- PostgreSQL • MongoDB • Redis <-- Spark Airflow -->
+- Docker • Git <!-- Kubernetes AWS Terraform -->
 
 **How to reach me:**
 
